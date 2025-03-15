@@ -9,6 +9,11 @@
 
 ### 📚 Projects
 
+#### Power BI
+
+| Project Link  | Project Description | Dashboard Link | 
+|---|---|---|
+|📊[Business Insights 360](https://github.com/HsiaoChuHao/Power-BI-Business-Insights-360) | AtliQ Hardware manufactures and distributes computer peripherals, including networking devices, laptops, and mouse..., to a global market (APAC,EU,NA,LATAM). The company supplies products to retailers, e-commerce platforms, and distributors. Sales insights and make accurate data-driven decisions through data analysis techniques from different point of view (Finance, Sales, Marketing, Supply Chain, Executive). | [Live dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTFjNDMwZTItODQ2My00NGFhLThhMmUtYTVhNGRlYjNkZTI5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) |
 
 
 ### 👋🏻 Connect with Me
